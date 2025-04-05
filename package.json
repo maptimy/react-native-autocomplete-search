@@ -1,5 +1,5 @@
 {
-  "name": "react-native-autocomplete-search",
+  "name": "@maptimy/react-native-autocomplete-search",
   "version": "0.1.0",
   "description": "Geographics Autocomplete Search for React Native",
   "source": "./src/index.tsx",
@@ -20,10 +20,10 @@
   "files": [
     "src",
     "lib",
-    "assets",
     "android",
     "ios",
     "cpp",
+    "README.md",
     "*.podspec",
     "react-native.config.js",
     "!ios/build",

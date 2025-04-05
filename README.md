@@ -16,7 +16,7 @@ import {
   AutocompleteSearchInput,
   AutocompleteSearchResults,
   AutocompleteSearchRoot,
-} from 'react-native-autocomplete-search';
+} from '@maptimy/react-native-autocomplete-search';
 import { View, StyleSheet } from 'react-native';
 import { Configuration } from '@stadiamaps/api';
 
