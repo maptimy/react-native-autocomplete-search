@@ -55,7 +55,7 @@
     "type": "git",
     "url": "git+https://github.com/maptimy/react-native-autocomplete-search/react-native-autocomplete-search.git"
   },
-  "author": "Benjamin Trounson <btrounson@outlook.co.nz> (https://github.com/maptimy/react-native-autocomplete-search)",
+  "author": "Benjamin Trounson <btrounson@maptimy.com> (https://github.com/maptimy/react-native-autocomplete-search)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/maptimy/react-native-autocomplete-search/react-native-autocomplete-search/issues"
