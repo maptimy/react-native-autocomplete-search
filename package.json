@@ -20,6 +20,7 @@
   "files": [
     "src",
     "lib",
+    "assets",
     "android",
     "ios",
     "cpp",
@@ -37,7 +38,7 @@
     "!**/.*"
   ],
   "scripts": {
-    "example": "yarn workspace react-native-autocomplete-search-example",
+    "example": "yarn workspace react-native-autocomplete-search-example android",
     "test": "jest",
     "typecheck": "tsc",
     "lint": "eslint \"**/*.{js,ts,tsx}\"",
@@ -183,5 +184,11 @@
     "languages": "js",
     "type": "library",
     "version": "0.48.3"
+  },
+  "dependencies": {
+    "@stadiamaps/api": "^6.0.0",
+    "@tanstack/react-query": "^5.67.2",
+    "@turf/distance": "^7.2.0",
+    "react-native-svg": "^15.11.2"
   }
 }
